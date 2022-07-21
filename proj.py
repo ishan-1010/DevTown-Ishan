@@ -2,7 +2,7 @@ import cv2
 import numpy as np
 
 video = cv2.VideoCapture(
-    "mixkit-young-woman-giving-a-presentation-on-a-green-screen-28292.mp4")
+    "mixkit-young-woman-giving-a-presentation-on-a-green-screen-28292(1)(1).mp4")
 image = cv2.imread("pexels-aleksandar-pasaric-325185.jpg")
 
 while True:
